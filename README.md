@@ -1,7 +1,15 @@
 # 非官方上古卷轴页面维基-简中汉化计划/USEPWiki_zhCH-Translation_Project  
 > [UESPWiki原址](http://en.uesp.net/wiki)  
 
-本计划旨在对[非官方上古卷轴页面维基/UESPWiki]进行简体中文翻译。  
+- [USEP汉化计划]旨在对[非官方上古卷轴页面维基/UESPWiki]进行简体中文翻译。  
+- [USEP汉化计划]将参考 [Markdown 格式] 进行写作。  
+- 全部内容都以原址为参考，尽量做到翻译工作的信达雅。  
+- 后续将逐步完善并公开发布[汉化规范]和[名词辞典]。  
+- 欢迎各位读者积极反馈建议以便完善[USEP汉化计划]。  
+- [USEP汉化计划]仅用于为中文母语者提供更便利的阅读体验，系本计划参与者的学习作品。  
+- 目前[USEP汉化计划]处于起始开发阶段，相关文稿及说明文档暂托管于[GitHub]  
+
+---
 以下是UESP原址[介绍](http://en.uesp.net/wiki/UESPWiki:About)内容的引用：  
 
 > UESPWiki:About
